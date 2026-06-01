@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://coffee.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick coffee'
+title = 'GGG Pick 커피용품'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick coffee'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'coffee 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '커피 머신, 원두 및 캡슐, 홈카페 용품 등 맛있는 커피 한 잔을 위한 홈카페/바리스타 용품 쿠팡 로켓배송 추천.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick coffee'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick coffee"
+  sitename = "GGG Pick 커피용품"
   siteurl = "https://coffee.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
