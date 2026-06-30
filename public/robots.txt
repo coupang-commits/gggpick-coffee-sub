@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coffee.gggpick.com/sitemap.xml
